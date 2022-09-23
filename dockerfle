@@ -1,3 +1,2 @@
 pipeline{
-  run sample.bash
 }
